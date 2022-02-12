@@ -3,8 +3,19 @@
 Since 2016, I have been wokring software development field. I'm an experienced full-stack developer with 6+ years of experience with a solid scholastic foundation and broad involvement in programming and application development. I strive to create engaging applications constructed with clean and efficient code. Here is my skill sets.
 
 ## Web Development:
-  #### - Backend Development: 
-  Strong foundations in software development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.	
+  ### Backend Development:
+   #### Ruby On Rails:
+   - **Authentication & Authorization** : OmniAuth, Ruby-JWT, Devise, CanCanCan, Pundit
+   - **ORMs**: Mongoid, Active Record
+   - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo
+   - **Response Formaters**: graphql, Rabl, Jbuilder, Slim, HAML
+   - **Background Jobs**: Active Jobs, Delayed Jobs, Sidekiq
+   - **App Servers**: Unicorn-Rails, Puma, Webrick
+   - **File Servings**: Webpacker
+   - **Image & Attachments**: Carrierwave, PaperClip, Active Storage, Minimagick
+   - **Optimization**: rubocop, traceroute, rack-mini-profiler, Bullet, rubycritic
+   - **Testing**: Selenium, Rspec, Shoulda, Factory Girl, Capybara etc
+
   #### - Frontend Development:
   Strong foundations in software development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.
 
@@ -13,8 +24,7 @@ Since 2016, I have been wokring software development field. I'm an experienced f
 Mostly I have been working on cross platform tech stacks.
 
 ## Blockchain:
-
-I have been working for three years on multiple blockchain concepts. Below are few of them:
+ I research, develop and deploy with enthusiasm Web 3.0 projects, peer-to-peer networks, blockchains, and DAGs sinces 2019.
 
 - Blockchain integration development: Bitcoin, Ethereum, Polkadot, Binance Coin, Tron, Uniswap and others, Crypto vaults, Liquidity providers, Trading bots
 
