@@ -2,22 +2,21 @@
 
 Since 2016, I have been wokring software development field. I'm an experienced full-stack developer with 6+ years of experience with a solid scholastic foundation and broad involvement in programming and application development. I strive to create engaging applications constructed with clean and efficient code. Here is my skill sets.
 
-## Web Development:
-  ### Backend Development:
-   #### Ruby On Rails:
-   - **Authentication & Authorization** : OmniAuth, Ruby-JWT, Devise, CanCanCan, Pundit
-   - **ORMs**: Mongoid, Active Record
-   - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo, WebRTC
-   - **Response Formaters**: graphql, Rabl, Jbuilder, Slim, HAML
-   - **Background Jobs**: Active Jobs, Delayed Jobs, Sidekiq
-   - **App Servers**: Unicorn-Rails, Puma, Webrick
-   - **File Servings**: Webpacker
-   - **Image & Attachments**: Carrierwave, PaperClip, Active Storage, Minimagick
-   - **Optimization**: rubocop, traceroute, rack-mini-profiler, Bullet, rubycritic
-   - **Testing**: Selenium, Rspec, Shoulda, Factory Girl, Capybara etc
+## Backend Development:
+ #### Ruby On Rails:
+ - **Authentication & Authorization** : OmniAuth, Ruby-JWT, Devise, CanCanCan, Pundit
+ - **ORMs**: Mongoid, Active Record
+ - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo, WebRTC
+ - **Response Formaters**: graphql, Rabl, Jbuilder, Slim, HAML
+ - **Background Jobs**: Active Jobs, Delayed Jobs, Sidekiq
+ - **App Servers**: Unicorn-Rails, Puma, Webrick
+ - **File Servings**: Webpacker
+ - **Image & Attachments**: Carrierwave, PaperClip, Active Storage, Minimagick
+ - **Optimization**: rubocop, traceroute, rack-mini-profiler, Bullet, rubycritic
+ - **Testing**: Selenium, Rspec, Shoulda, Factory Girl, Capybara etc
 
-  #### - Frontend Development:
-  Strong foundations in software development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.
+## - Frontend Development:
+Strong foundations in software development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.
 
 ## Mobile Development:
 
