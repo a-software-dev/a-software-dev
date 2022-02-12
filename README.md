@@ -34,6 +34,13 @@ Mostly I have been working on cross platform tech stacks.
 
 
 ### Apis & Other Concepts:
+ - **Hosting & Deployement**: Liquid Web, Heroku, Hostinger, DreamHost, Bluehost, HostGator, A2 Hosting, Digital Ocean, AWS Lightsail/EC2  
+ - **Mail Servers**: Sendgrid, Mandrill, Mailgun, MailChimp
+ - **Code Version Control Systems**: Github, Bitbucket, Gitlab
+ - **Payment Gateway integrations**: Paypal, Braintree, Stripe, Alipay Global, BitPay
+ - **Communication Apis**: Twilio, Siri, Google Voice, Plivo
+ - **Web Servers**: Apache, Nginx
+
   
   
 
