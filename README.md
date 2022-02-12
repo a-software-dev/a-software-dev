@@ -39,6 +39,7 @@ Mostly I have been working on cross platform tech stacks.
  - **Payment Gateway integrations**: Paypal, Braintree, Stripe, Alipay Global, BitPay
  - **Communication Apis**: Twilio, Siri, Google Voice, Plivo
  - **Web Servers**: Apache, Nginx
+ - **Databases**: MySQL, SQLite, PSQL, MongoDB
 
   
   
