@@ -1,4 +1,4 @@
 - I'm a full-stack software developer who has experience in NFT minting/marketing website, DApps, DeFi, BlockChain, AMM, web/mobile app development from scratch, including Smart Contracts, Solidity development.
 - I strive to create engaging applications constructed with clean and efficient code. Strong foundations in web/mobile development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.
-- Ideally to collaborate on blockchain based system.
+- Ideally want to collaborate on blockchain based system, But open to other opportunities.
 - You can reach me at sharma102pankaj@gmail.com
