@@ -15,7 +15,7 @@ Since 2016, I have been wokring software development field. I'm an experienced f
  - **Optimization**: rubocop, traceroute, rack-mini-profiler, Bullet, rubycritic
  - **Testing**: Selenium, Rspec, Shoulda, Factory Girl, Capybara etc
 
-## - Frontend Development:
+## Frontend Development:
 Strong foundations in software development technologies include JavaScript, Ruby on Rails, React.js, Vue.js, React Native, jQuery and so on.
 
 ## Mobile Development:
