@@ -7,7 +7,7 @@ Since 2016, I have been wokring software development field. I'm an experienced f
    #### Ruby On Rails:
    - **Authentication & Authorization** : OmniAuth, Ruby-JWT, Devise, CanCanCan, Pundit
    - **ORMs**: Mongoid, Active Record
-   - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo
+   - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo, WebRTC
    - **Response Formaters**: graphql, Rabl, Jbuilder, Slim, HAML
    - **Background Jobs**: Active Jobs, Delayed Jobs, Sidekiq
    - **App Servers**: Unicorn-Rails, Puma, Webrick
