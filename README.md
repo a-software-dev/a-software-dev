@@ -8,6 +8,7 @@ Since 2016, I have been wokring software development field. I'm an experienced f
  - **ORMs**: Mongoid, Active Record
  - **Real Time Concepts**: Action Cable, Turbo Links, SocketIo, WebRTC
  - **Response Formaters**: graphql, Rabl, Jbuilder, Slim, HAML
+ - **Frameworks**: Spree, Redmine, Basecamp
  - **Background Jobs**: Active Jobs, Delayed Jobs, Sidekiq
  - **App Servers**: Unicorn-Rails, Puma, Webrick
  - **File Servings**: Webpacker
